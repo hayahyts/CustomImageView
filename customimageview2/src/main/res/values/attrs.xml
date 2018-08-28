@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomImage">
+        <attr name="android:src" />
+        <attr name="cornerRadius" format="integer" />
+        <attr name="mBorderWidth" format="integer" />
+        <attr name="borderColor" format="color" />
+        <attr name="text" format="string" />
+        <attr name="textAlignment" format="string"/>
+    </declare-styleable>
+</resources>
